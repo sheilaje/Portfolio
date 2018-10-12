@@ -1,6 +1,5 @@
 # Portfolio
-### By
-### Sheila Stephen
+### By,Sheila Stephen - 10.12.2018
 ## Description
 #### This is a Portfolio webpage that has the following details about me
 1. About me
@@ -12,5 +11,5 @@
 #### * CSS
 #### * Bootstrap
 ## link to my project
-#### [Portfolio webpage] (sheilaje.github.io)
-#### Copyright (c) 2018 **_{ Epicodus }_**
+#### [Portfolio webpage](sheilaje.github.io)
+#### Copyright (c) 2018 _ Epicodus _
