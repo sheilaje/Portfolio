@@ -30,7 +30,7 @@
 .image-edit{
   width: 150px;
   height:150px;
-  float: inherit;
+  float: right;
   border: 2px solid black;
   padding: 4px;
   margin: 2px;
@@ -49,14 +49,6 @@
   font-style: oblique;
 }
 
-/* @media screen and (max-width: 768px)
-{body
-  {
-  background-color: black;
-  color: white;
-  }}
-
-  @media screen and (max-width: 480px){body
-  {
-    background-color: teal;
-    }} */
+a:hover {
+    background-color: yellow;
+}
