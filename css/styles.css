@@ -1,7 +1,7 @@
-/* body{
-  font-family: cursive;
-  font-size: 100px;
-} */
+.textcentre{
+  text-align: center;
+  color: #3d243f;
+}
 
 .highlight{
   background-color: #cecb1e;
