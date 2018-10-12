@@ -6,4 +6,11 @@
 
 .font-sub{
   font-style: italic;
+  font-size: 20px;
+  font-weight:bold;
+}
+
+.font-subsub{
+  font-family: sans-serif;
+  font-size: 18px;
 }
