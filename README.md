@@ -11,6 +11,6 @@
 #### * HTML
 #### * CSS
 #### * Bootstrap
-##link to my project
-####[Portfolio webpage](sheilaje.github.io)
-####Copyright (c) 2018 **_{ Epicodus }_**
+## link to my project
+#### [Portfolio webpage] (sheilaje.github.io)
+#### Copyright (c) 2018 **_{ Epicodus }_**
