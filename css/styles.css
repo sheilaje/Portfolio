@@ -1,7 +1,7 @@
-body{
+/* body{
   font-family: cursive;
   font-size: 100px;
-}
+} */
 
 .highlight{
   background-color: #cecb1e;
@@ -48,3 +48,15 @@ body{
   font-size: 18px;
   font-style: oblique;
 }
+
+/* @media screen and (max-width: 768px)
+{body
+  {
+  background-color: black;
+  color: white;
+  }}
+
+  @media screen and (max-width: 480px){body
+  {
+    background-color: teal;
+    }} */
