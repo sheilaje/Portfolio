@@ -1,8 +1,11 @@
 body{
   font-family: cursive;
-
+  font-size: 100px;
 }
 
+.highlight{
+  background-color: #cecb1e;
+}
   .aboutme-color{
     background-color: #dce8ed;
   }
@@ -13,6 +16,10 @@ body{
 
   .mybackground-color{
     background-color: #d0e8b2;
+  }
+
+  .mybackground-color ol li{
+    color:#a05448
   }
 
   .myhobbies-color{
@@ -40,8 +47,4 @@ body{
   font-family: sans-serif;
   font-size: 18px;
   font-style: oblique;
-}
-
-.fontsubsub p{
-  color: #a05448;
 }
